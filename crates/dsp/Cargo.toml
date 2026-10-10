@@ -1,0 +1,8 @@
+[package]
+name = "enterokussion-dsp"
+description = "DSP engine for Enterokussion EK-1, a dual-channel alien intestinal sound generator"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]

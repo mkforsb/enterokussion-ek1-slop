@@ -1,0 +1,8 @@
+[application]
+name = "enterokussion"
+
+[web.app]
+title = "Enterokussion EK-1 · Alien Intestinal Sound Generator"
+
+[web.watcher]
+watch_path = ["src", "assets", "../dsp/src", "../worklet/src"]
